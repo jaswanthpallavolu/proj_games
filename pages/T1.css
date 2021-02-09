@@ -66,4 +66,7 @@ a, a:active, a:hover{
         transform:rotateX(5deg);
          
     }
+    .leftblock{
+        height:400px;
+    }
 }

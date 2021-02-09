@@ -92,3 +92,15 @@ h1{
     100%{right:0px;}
 
 }
+
+@media (max-width:600px)
+{
+    .grid-con{
+        margin:2px;
+        padding:10px;
+        height:fit-content;
+    }
+    .grid-item{
+        margin:10px;
+    }
+}
