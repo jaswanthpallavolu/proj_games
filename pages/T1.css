@@ -5,14 +5,12 @@
  
 .leftblock{
     background-color:#5D6D7E ;
-    width:200px;
-    height: 550px;
-   
-    
+    width:450px;
+    height: 570px;
     text-align: center;
-    border-radius: 30px;
-    margin-top: 20px;
-    padding-bottom: 20px;
+    border-radius: 35px;
+     
+    
 }
  
 button{
@@ -46,7 +44,7 @@ button{
 
     border-color: white;
     border:3px;
-    border-style: double;
+    border-style:solid;
 }
  
 /*button:hover{
@@ -67,6 +65,13 @@ a, a:active, a:hover{
          
     }
     .leftblock{
-        height:400px;
+        height:380px;
+        width:50%;
+        position:relative;
+        left:10%;
+        margin-top:10px;
+        margin-bottom: 10px;
+         
     }
+     
 }
